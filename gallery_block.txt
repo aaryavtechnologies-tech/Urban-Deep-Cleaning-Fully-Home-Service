@@ -1,0 +1,282 @@
+          <div class="gallery-item" data-category="floors" data-full="images/work-01.jpg" data-caption="Mirror-Polished Granite Staircase &bull; Deep scrubbed and buffed black granite stairs">
+            <img src="images/work-01.jpg" alt="Mirror-Polished Granite Staircase" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Mirror-Polished Granite Staircase</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-02.jpg" data-caption="L-Shaped Modular Kitchen Counters &bull; Spotless black quartz countertop and overhead cabinets">
+            <img src="images/work-02.jpg" alt="L-Shaped Modular Kitchen Counters" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">L-Shaped Modular Kitchen Counters</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-03.jpg" data-caption="Pristine Kitchen Platform & Storage &bull; Degreased tiles, drawers and surface polishing">
+            <img src="images/work-03.jpg" alt="Pristine Kitchen Platform & Storage" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Pristine Kitchen Platform & Storage</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="floors" data-full="images/work-04.jpg" data-caption="Mirror-Finish Polished Floor &bull; High-gloss scrubbing and reflective floor restoration">
+            <img src="images/work-04.jpg" alt="Mirror-Finish Polished Floor" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Mirror-Finish Polished Floor</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="living" data-full="images/work-05.jpg" data-caption="Sanitized Living Room Vitrified Tiles &bull; Thorough floor scrubbing and skirting dusting">
+            <img src="images/work-05.jpg" alt="Sanitized Living Room Vitrified Tiles" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Sanitized Living Room Vitrified Tiles</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="wardrobes" data-full="images/work-06.jpg" data-caption="Master Bedroom Mirrored Wardrobe &bull; External laminate wipe-down and streak-free mirror shine">
+            <img src="images/work-06.jpg" alt="Master Bedroom Mirrored Wardrobe" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Master Bedroom Mirrored Wardrobe</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="floors" data-full="images/work-07.jpg" data-caption="Deep Cleaned Utility Area & Dark Tiles &bull; Tile descaling and grout scrubbing">
+            <img src="images/work-07.jpg" alt="Deep Cleaned Utility Area & Dark Tiles" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Deep Cleaned Utility Area & Dark Tiles</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="living" data-full="images/work-08.jpg" data-caption="Bedroom Bay Windows & Wooden Flooring &bull; Detailed window grill dusting and floor polish">
+            <img src="images/work-08.jpg" alt="Bedroom Bay Windows & Wooden Flooring" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Bedroom Bay Windows & Wooden Flooring</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="living" data-full="images/work-09.jpg" data-caption="Bed Frame & Hardwood Floor Cleaning &bull; Under-bed dust removal and wood conditioning">
+            <img src="images/work-09.jpg" alt="Bed Frame & Hardwood Floor Cleaning" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Bed Frame & Hardwood Floor Cleaning</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="living" data-full="images/work-10.jpg" data-caption="Sunlit Bedroom Handover Cleaning &bull; Window glass shine and dust-free interior finish">
+            <img src="images/work-10.jpg" alt="Sunlit Bedroom Handover Cleaning" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Sunlit Bedroom Handover Cleaning</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="living" data-full="images/work-11.jpg" data-caption="Accent Wall & Balcony Access Area &bull; Panel wipe-down and floor perimeter sanitization">
+            <img src="images/work-11.jpg" alt="Accent Wall & Balcony Access Area" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Accent Wall & Balcony Access Area</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="living" data-full="images/work-12.jpg" data-caption="Balcony Glass Sliding Doors &bull; Track vacuuming and spotless glass panel shine">
+            <img src="images/work-12.jpg" alt="Balcony Glass Sliding Doors" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Balcony Glass Sliding Doors</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="living" data-full="images/work-13.jpg" data-caption="Balcony Deck & Safety Grills &bull; Exterior balcony floor wash and rail dusting">
+            <img src="images/work-13.jpg" alt="Balcony Deck & Safety Grills" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Balcony Deck & Safety Grills</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="living" data-full="images/work-14.jpg" data-caption="Upholstered Headboard & Bedroom Floor &bull; Fabric dusting and bedside ledge sanitization">
+            <img src="images/work-14.jpg" alt="Upholstered Headboard & Bedroom Floor" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Upholstered Headboard & Bedroom Floor</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="wardrobes" data-full="images/work-15.jpg" data-caption="Polished Wood Passage Door &bull; Door frame degreasing and hardware shine">
+            <img src="images/work-15.jpg" alt="Polished Wood Passage Door" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Polished Wood Passage Door</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="living" data-full="images/work-16.jpg" data-caption="Low Platform Bed & Skirting Cleaning &bull; Edge-to-edge floor scrub and ledge wipe-down">
+            <img src="images/work-16.jpg" alt="Low Platform Bed & Skirting Cleaning" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Low Platform Bed & Skirting Cleaning</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="living" data-full="images/work-17.jpg" data-caption="Platform Bed Frame & Parquet Flooring &bull; Spotless handover preparation for master suite">
+            <img src="images/work-17.jpg" alt="Platform Bed Frame & Parquet Flooring" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Platform Bed Frame & Parquet Flooring</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="living" data-full="images/work-18.jpg" data-caption="Cleaned Bedroom Layout with Wooden Flooring &bull; Thorough dust extraction and surface polishing">
+            <img src="images/work-18.jpg" alt="Cleaned Bedroom Layout with Wooden Flooring" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Cleaned Bedroom Layout with Wooden Flooring</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="living" data-full="images/work-19.jpg" data-caption="Bed Unit & Ambient Window Wall &bull; Comprehensive bedroom deep sanitization">
+            <img src="images/work-19.jpg" alt="Bed Unit & Ambient Window Wall" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Bed Unit & Ambient Window Wall</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="wardrobes" data-full="images/work-20.jpg" data-caption="Wardrobe Interior Shelves & Drawers &bull; Internal vacuuming and dust-free shelf wipe">
+            <img src="images/work-20.jpg" alt="Wardrobe Interior Shelves & Drawers" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Wardrobe Interior Shelves & Drawers</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="wardrobes" data-full="images/work-21.jpg" data-caption="Multi-Compartment Wardrobe Shelves &bull; Sanitized linen storage and drawer tracks">
+            <img src="images/work-21.jpg" alt="Multi-Compartment Wardrobe Shelves" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Multi-Compartment Wardrobe Shelves</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="wardrobes" data-full="images/work-22.jpg" data-caption="Floor-to-Ceiling Storage Unit &bull; Clean interior dividers and polished wooden veneer">
+            <img src="images/work-22.jpg" alt="Floor-to-Ceiling Storage Unit" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Floor-to-Ceiling Storage Unit</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="wardrobes" data-full="images/work-23.jpg" data-caption="Corner Wardrobe with Full-Length Mirror &bull; Mirror polishing and laminate surface care">
+            <img src="images/work-23.jpg" alt="Corner Wardrobe with Full-Length Mirror" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Corner Wardrobe with Full-Length Mirror</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="floors" data-full="images/work-24.jpg" data-caption="Polished Hardwood Bedroom Floor &bull; Deep machine scrubbing and buffed finish">
+            <img src="images/work-24.jpg" alt="Polished Hardwood Bedroom Floor" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Polished Hardwood Bedroom Floor</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="bathroom" data-full="images/work-25.jpg" data-caption="Chrome Rain Showerhead & Tiled Wall &bull; Limescale descaling and hard water stain removal">
+            <img src="images/work-25.jpg" alt="Chrome Rain Showerhead & Tiled Wall" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Chrome Rain Showerhead & Tiled Wall</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="bathroom" data-full="images/work-26.jpg" data-caption="Vanity Countertop Sink & Open Cabinet &bull; Under-sink sanitization and ceramic basin descaling">
+            <img src="images/work-26.jpg" alt="Vanity Countertop Sink & Open Cabinet" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Vanity Countertop Sink & Open Cabinet</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="bathroom" data-full="images/work-27.jpg" data-caption="Anti-Skid Bathroom Floor Tiles &bull; Deep grout scrubbing and surface disinfection">
+            <img src="images/work-27.jpg" alt="Anti-Skid Bathroom Floor Tiles" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Anti-Skid Bathroom Floor Tiles</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-28.jpg" data-caption="Stainless Steel Kitchen Sink & Faucet &bull; Scale removal, drain sanitization and chrome shine">
+            <img src="images/work-28.jpg" alt="Stainless Steel Kitchen Sink & Faucet" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Stainless Steel Kitchen Sink & Faucet</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="living" data-full="images/work-29.jpg" data-caption="Detailed Switchboard & Outlet Cleaning &bull; Precision grime removal from switches and sockets">
+            <img src="images/work-29.jpg" alt="Detailed Switchboard & Outlet Cleaning" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Detailed Switchboard & Outlet Cleaning</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-30.jpg" data-caption="Modular Kitchen Overview & Breakfast Counter &bull; Complete kitchen handover deep clean">
+            <img src="images/work-30.jpg" alt="Modular Kitchen Overview & Breakfast Counter" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Modular Kitchen Overview & Breakfast Counter</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-31.jpg" data-caption="Upper Crockery Cabinets & Backsplash Tiles &bull; Internal shelf disinfection and tile degreasing">
+            <img src="images/work-31.jpg" alt="Upper Crockery Cabinets & Backsplash Tiles" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Upper Crockery Cabinets & Backsplash Tiles</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-32.jpg" data-caption="Built-in Microwave & Wall Unit &bull; Exterior and interior microwave sanitization">
+            <img src="images/work-32.jpg" alt="Built-in Microwave & Wall Unit" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Built-in Microwave & Wall Unit</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-33.jpg" data-caption="Upper Cabinet Interior Sanitization &bull; Food-safe interior wipe and shelf dusting">
+            <img src="images/work-33.jpg" alt="Upper Cabinet Interior Sanitization" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Upper Cabinet Interior Sanitization</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-34.jpg" data-caption="Built-in Oven Interior Degreasing &bull; Heavy-duty baking rack cleaning and glass door shine">
+            <img src="images/work-34.jpg" alt="Built-in Oven Interior Degreasing" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Built-in Oven Interior Degreasing</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-35.jpg" data-caption="Built-in Microwave Cavity Cleaning &bull; High-heat grime extraction and interior polish">
+            <img src="images/work-35.jpg" alt="Built-in Microwave Cavity Cleaning" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Built-in Microwave Cavity Cleaning</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-36.jpg" data-caption="Built-in Oven Deep Cleaning & Door Care &bull; Oven tray scrubbing and control panel wipe">
+            <img src="images/work-36.jpg" alt="Built-in Oven Deep Cleaning & Door Care" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Built-in Oven Deep Cleaning & Door Care</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-37.jpg" data-caption="Wide Kitchen Under-Counter Drawer &bull; Cutlery drawer vacuuming and internal shelf wipe">
+            <img src="images/work-37.jpg" alt="Wide Kitchen Under-Counter Drawer" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Wide Kitchen Under-Counter Drawer</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-38.jpg" data-caption="Corner Shelf Storage & Dark Countertop &bull; Blind corner cabinet cleaning and dust removal">
+            <img src="images/work-38.jpg" alt="Corner Shelf Storage & Dark Countertop" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Corner Shelf Storage & Dark Countertop</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-39.jpg" data-caption="Modular Cutlery Organizer Drawer &bull; Tray extraction, wash and realignment">
+            <img src="images/work-39.jpg" alt="Modular Cutlery Organizer Drawer" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Modular Cutlery Organizer Drawer</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-40.jpg" data-caption="Pull-Out Pantry Wire Basket Cleaning &bull; Slider track lubrication and basket wipe">
+            <img src="images/work-40.jpg" alt="Pull-Out Pantry Wire Basket Cleaning" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Pull-Out Pantry Wire Basket Cleaning</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-41.jpg" data-caption="Modular Kitchen Layout with Built-in Oven &bull; Spotless kitchen finish and floor polish">
+            <img src="images/work-41.jpg" alt="Modular Kitchen Layout with Built-in Oven" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Modular Kitchen Layout with Built-in Oven</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-42.jpg" data-caption="Corner Platform & Sink Unit &bull; Countertop polishing and backsplash tile scrub">
+            <img src="images/work-42.jpg" alt="Corner Platform & Sink Unit" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Corner Platform & Sink Unit</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-43.jpg" data-caption="Deep Kitchen Drawer Interior &bull; Base drawer wipe and crumb extraction">
+            <img src="images/work-43.jpg" alt="Deep Kitchen Drawer Interior" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Deep Kitchen Drawer Interior</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-44.jpg" data-caption="Modular Chimney & Gas Hob Platform &bull; Chimney exterior and cooktop burner area degreasing">
+            <img src="images/work-44.jpg" alt="Modular Chimney & Gas Hob Platform" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Modular Chimney & Gas Hob Platform</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-45.jpg" data-caption="Lower Cabinet Storage & Gas Connection Bay &bull; Dust extraction and safety compartment wipe">
+            <img src="images/work-45.jpg" alt="Lower Cabinet Storage & Gas Connection Bay" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Lower Cabinet Storage & Gas Connection Bay</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-46.jpg" data-caption="Glass Top Gas Stove & Under-Drawer &bull; Burner plate descaling and drawer cleaning">
+            <img src="images/work-46.jpg" alt="Glass Top Gas Stove & Under-Drawer" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Glass Top Gas Stove & Under-Drawer</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-category="kitchen" data-full="images/work-47.jpg" data-caption="Under-Sink Storage Cabinets & Plumbing Bay &bull; Plumbing pipe wipe-down and floor base disinfection">
+            <img src="images/work-47.jpg" alt="Under-Sink Storage Cabinets & Plumbing Bay" loading="lazy" width="400" height="300">
+            <div class="gallery-overlay">
+              <span class="gallery-label">Under-Sink Storage Cabinets & Plumbing Bay</span>
+            </div>
+          </div>
