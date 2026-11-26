@@ -705,7 +705,7 @@ button, input, select, textarea {
 }
 
 .comparison-card {
-  max-width: 620px;
+  max-width: 960px;
   margin: 0 auto;
   background-color: var(--white);
   padding: 16px;
@@ -717,7 +717,7 @@ button, input, select, textarea {
 .comparison-slider {
   position: relative;
   width: 100%;
-  aspect-ratio: 509 / 682;
+  aspect-ratio: 16 / 10;
   overflow: hidden;
   border-radius: var(--radius-md);
   user-select: none;
@@ -741,6 +741,7 @@ button, input, select, textarea {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center 38%;
   pointer-events: none;
 }
 
@@ -830,6 +831,8 @@ button, input, select, textarea {
   font-size: 0.95rem;
   font-weight: 600;
   color: var(--dark-green);
+  gap: 16px;
+  flex-wrap: wrap;
 }
 
 .disclaimer-text {
@@ -1907,6 +1910,20 @@ button, input, select, textarea {
   .comparison-card {
     max-width: 100%;
     padding: 12px;
+  }
+  .comparison-slider {
+    aspect-ratio: 4 / 3;
+  }
+  .comparison-slider .badge {
+    top: 10px;
+    font-size: 0.65rem;
+    padding: 4px 10px;
+  }
+  .comparison-slider .badge-before {
+    left: 10px;
+  }
+  .comparison-slider .badge-after {
+    right: 10px;
   }
   .video-showcase-card {
     padding: 24px 18px;
